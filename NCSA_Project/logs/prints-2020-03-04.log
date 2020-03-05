@@ -1,0 +1,12 @@
+18:57:55.729 [main] INFO  OLB.RubyOnRailsHomePage_TEST - Navigated to Ruby on Rails girHome page
+18:57:55.814 [main] INFO  OLB.RubyOnRailsHomePage_TEST - Sign In is visible
+18:57:55.814 [main] ERROR OLB.RubyOnRailsHomePage_TEST - Sign In is invisible
+18:57:55.855 [main] INFO  OLB.RubyOnRailsHomePage_TEST - Sign Up is visible
+18:57:55.855 [main] ERROR OLB.RubyOnRailsHomePage_TEST - Sign Up is invisible
+18:57:55.888 [main] INFO  OLB.RubyOnRailsHomePage_TEST - Ruby on Rails is displayed on Ruby GIT homePage
+18:57:55.888 [main] ERROR OLB.RubyOnRailsHomePage_TEST - Ruby on Rails is NOT displayed on Ruby GIT homePage
+18:59:22.333 [main] INFO  OLB.RubyOnRailsHomePage_TEST - Navigated to Ruby on Rails girHome page
+18:59:22.408 [main] INFO  OLB.RubyOnRailsHomePage_TEST - Sign In is visible
+18:59:22.408 [main] ERROR OLB.RubyOnRailsHomePage_TEST - Sign In is invisible
+18:59:22.450 [main] INFO  OLB.RubyOnRailsHomePage_TEST - Sign Up is visible
+18:59:22.450 [main] ERROR OLB.RubyOnRailsHomePage_TEST - Sign Up is invisible

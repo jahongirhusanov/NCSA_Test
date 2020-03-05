@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="OLB.listeners"/>
+    <listener class-name="resources.ExtentReporterNG"/>
+  </listeners>
+  <test name="Validating HomePage(failed)">
+    <classes>
+      <class name="OLB.RubyOnRailsHomePage_TEST">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="validateRubyOnRailsText"/>
+        </methods>
+      </class> <!-- OLB.RubyOnRailsHomePage_TEST -->
+    </classes>
+  </test> <!-- Validating HomePage(failed) -->
+</suite> <!-- Failed suite [Suite] -->

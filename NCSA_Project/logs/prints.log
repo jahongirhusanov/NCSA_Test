@@ -1,0 +1,5 @@
+18:59:34.972 [main] INFO  OLB.RubyOnRailsHomePage_TEST - Navigated to Ruby on Rails girHome page
+18:59:35.063 [main] INFO  OLB.RubyOnRailsHomePage_TEST - Sign In is visible
+18:59:35.063 [main] ERROR OLB.RubyOnRailsHomePage_TEST - Sign In is invisible
+18:59:35.175 [main] INFO  OLB.RubyOnRailsHomePage_TEST - Sign Up is visible
+18:59:35.175 [main] ERROR OLB.RubyOnRailsHomePage_TEST - Sign Up is invisible
